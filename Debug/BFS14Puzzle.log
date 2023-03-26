@@ -1,0 +1,4 @@
+﻿  BFS14Puzzle.cpp
+C:\Users\matrix\source\repos\BFS14Puzzle\BFS14Puzzle.cpp(193,7): warning C4101: 'tempParent': unreferenced local variable
+C:\Users\matrix\source\repos\BFS14Puzzle\BFS14Puzzle.cpp(92): warning C4715: 'queExists': not all control paths return a value
+  BFS14Puzzle.vcxproj -> C:\Users\matrix\source\repos\BFS14Puzzle\Debug\BFS14Puzzle.exe

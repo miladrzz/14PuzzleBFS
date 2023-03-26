@@ -1,0 +1,2 @@
+C:\Users\matrix\source\repos\BFS14Puzzle\Debug\BFS14Puzzle.exe
+C:\Users\matrix\source\repos\BFS14Puzzle\Debug\BFS14Puzzle.pdb
